@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "PiRyte_Mini_ATX_PSU_Service": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
